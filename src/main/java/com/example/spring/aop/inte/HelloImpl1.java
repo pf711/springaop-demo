@@ -11,5 +11,6 @@ public class HelloImpl1 implements HelloInterface {
 
     public void doPoint() {
         System.out.println("HelloImpl1.doPoint");
+        System.out.println("helllllllll");
     }
 }
